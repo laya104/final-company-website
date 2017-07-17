@@ -1,0 +1,21 @@
+body {
+	background-color: mistyrose;
+	;margin-bottom: 80px
+}
+
+ul    {font-weight: bold;}
+
+h4		{font-size: 30px}
+
+.page-header {margin-top: 0;
+			}
+
+.panel-body	{padding-top: 0;
+		}
+
+.featuredimg{margin-bottom: 15px}
+
+.carousel-control	{z-index: 10;
+					top: 2%;
+					width: 30px;}
+
